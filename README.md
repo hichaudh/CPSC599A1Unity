@@ -10,3 +10,5 @@ How to:
 To move: use UP , DOWN , LEFT , RIGHT
 To rotate: use R key & L key
 To do exciting event: hold SPACE key
+
+Image target: second.jpg
