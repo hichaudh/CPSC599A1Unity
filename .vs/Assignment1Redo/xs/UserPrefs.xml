@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{FD70B450-317F-6CD7-F850-9BA4DBCB9521}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/skeletonBehavior.cs">
+    <Files>
+      <File FileName="Assets/skeletonBehavior.cs" Line="45" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Assignment1Redo" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="skeletonBehavior.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="7ae425e5-368d-416c-9e1b-2d54878d6304" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
